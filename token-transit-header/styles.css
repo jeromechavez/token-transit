@@ -40,7 +40,7 @@ ul li {
 }
 
 header {
-  background-image: url("/Users/jerome/token-transit/token-transit-header/header-bg.jpg");
+  background-image: url("header-bg.jpg");
   padding-top: 100px;
   padding-bottom: 50px;
   height: 600px;
